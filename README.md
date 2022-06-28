@@ -1,2 +1,7 @@
-# Responsive Web Design
-The curriculum and projects are from freeCodeCamp 
+# Responsive Web Design - [freeCodeCamp](https://www.freecodecamp.org/)
+
+## Side Projects:
+|Courses|Link|Descriptions|Photos
+|:---:|:---:|:---:|:---:
+|Building a Cat Photo App|[link]()||
+
